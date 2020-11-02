@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+LeaJasmineViewTool::Renderer.copyright 'Lea Jasmine', 'All rights reserved'
+```
 
 ## Development
 
