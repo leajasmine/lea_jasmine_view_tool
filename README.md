@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-LeaJasmineViewTool::Renderer.copyright 'Lea Jasmine', 'All rights reserved'
+LeaJasmineViewtool::Renderer.copyright 'Lea Jasmine', 'All rights reserved'
 ```
 
 ## Development
